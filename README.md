@@ -1,1 +1,2 @@
-not empty readme
+This is my repository to learn Git
+
